@@ -1,0 +1,11 @@
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\obj\Debug\netcoreapp3.0\guessing game.csprojAssemblyReference.cache
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\obj\Debug\netcoreapp3.0\guessing game.AssemblyInfoInputs.cache
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\obj\Debug\netcoreapp3.0\guessing game.AssemblyInfo.cs
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\bin\Debug\netcoreapp3.0\guessing game.exe
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\bin\Debug\netcoreapp3.0\guessing game.deps.json
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\bin\Debug\netcoreapp3.0\guessing game.runtimeconfig.json
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\bin\Debug\netcoreapp3.0\guessing game.runtimeconfig.dev.json
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\bin\Debug\netcoreapp3.0\guessing game.dll
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\bin\Debug\netcoreapp3.0\guessing game.pdb
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\obj\Debug\netcoreapp3.0\guessing game.dll
+D:\BACKUPS\JOHN KRISE\School work\guessing game\guessing game\obj\Debug\netcoreapp3.0\guessing game.pdb
